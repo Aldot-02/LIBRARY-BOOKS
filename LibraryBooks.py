@@ -55,6 +55,7 @@ class Library:
                 print(book)
         else:
             print(f"No results found for '{term}'.")
+            
     
     def list_books(self):
         print(f"Total books: {self.total_books}")
