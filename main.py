@@ -1,3 +1,6 @@
+from library import Library
+from library_book import LibraryBook
+
 # Create a new library object.
 library = Library()
 
